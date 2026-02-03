@@ -91,10 +91,10 @@ export const ValentineCard: React.FC = () => {
             />
           </div>
           <h1 className="text-5xl font-pacifico text-pink-600 animate-pulse">
-            Yay!!! I love you! ❤️
+            Yes!!! I love you! ❤️
           </h1>
           <p className="text-xl text-gray-700 font-bold">
-            Best Valentine's Day Ever! 🍌✨
+            Ik heb er zin in! 💖✨
           </p>
           <div className="flex justify-center gap-4 text-4xl">
             <span>🥰</span>
