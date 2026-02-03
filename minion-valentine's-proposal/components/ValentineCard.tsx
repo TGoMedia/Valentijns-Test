@@ -54,7 +54,7 @@ export const ValentineCard: React.FC = () => {
           </div>
           
           <h1 className="text-4xl md:text-5xl font-pacifico text-red-600 drop-shadow-sm">
-            Will you be my valentine?
+            Suzan, wil jij mijn valentijn zijn?
           </h1>
 
           <div className="flex flex-col items-center justify-center gap-6 pt-4">
